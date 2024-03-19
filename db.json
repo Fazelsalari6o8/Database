@@ -2,7 +2,8 @@
   "courses": [
     {
       "id": 1,
-      "name": "HTML",
+      "name": "html",
+      "title": "HTML",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/html-5.svg",
       "description": {
         "students": "2750",
@@ -15,7 +16,8 @@
     },
     {
       "id": 2,
-      "name": "CSS",
+      "name": "css",
+      "title": "CSS",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/css-3.svg",
       "description": {
         "students": "3120",
@@ -28,7 +30,8 @@
     },
     {
       "id": 3,
-      "name": "SASS",
+      "name": "sass",
+      "title": "SASS",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/sass.svg",
       "description": {
         "students": "3100",
@@ -41,7 +44,8 @@
     },
     {
       "id": 4,
-      "name": "Javascript",
+      "name": "javascript",
+      "title": "Javascript",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/js.svg",
       "description": {
         "students": "3500",
@@ -54,7 +58,8 @@
     },
     {
       "id": 5,
-      "name": "Typescript",
+      "name": "typescript",
+      "title": "Typescript",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/typescript.svg",
       "description": {
         "students": "2173",
@@ -67,7 +72,8 @@
     },
     {
       "id": 6,
-      "name": "Vue.js",
+      "name": "vuejs",
+      "title": "Vue.js",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/vue-svgrepo-com.svg",
       "description": {
         "students": "1890",
@@ -80,7 +86,8 @@
     },
     {
       "id": 7,
-      "name": "Nuxt.js",
+      "name": "nuxtjs",
+      "title": "Nuxt.js",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/nuxt-svgrepo-com.svg",
       "description": {
         "students": "1780",
@@ -93,7 +100,8 @@
     },
     {
       "id": 8,
-      "name": "React.js",
+      "name": "reactjs",
+      "title": "React.js",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/reactjs-svgrepo-com.svg",
       "description": {
         "students": "2560",
@@ -106,7 +114,8 @@
     },
     {
       "id": 9,
-      "name": "Next.js",
+      "name": "nextjs",
+      "title": "Next.js",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/nextjs-svgrepo-com.svg",
       "description": {
         "students": "2120",
@@ -119,7 +128,8 @@
     },
     {
       "id": 10,
-      "name": "Angular",
+      "name": "angular",
+      "title": "Angular",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/angular-svgrepo-com.svg",
       "description": {
         "students": "1460",
@@ -132,7 +142,8 @@
     },
     {
       "id": 11,
-      "name": "Node.js",
+      "name": "nodejs",
+      "title": "Node.js",
       "img": "https://fazelsalari6o8.github.io/DbCodeClub/images/course-website/courses-img/node-js.svg",
       "description": {
         "students": "1560",
